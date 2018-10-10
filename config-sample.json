@@ -1,0 +1,20 @@
+{
+	"live": {
+		"gdax": {
+			"key": "",
+			"secret": "",
+			"passphrase": "",
+			"apiURI": "",
+			"websocketEndpoint": ""
+		}
+	},
+	"sandbox": {
+		"gdax": {
+			"key": "",
+			"secret": "",
+			"passphrase": "",
+			"apiURI": "",
+			"websocketEndpoint": ""
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "name": "hft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "gdax": "^0.5.1",
+    "lodash": "^4.17.4",
+    "mathjs": "^3.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
